@@ -33,15 +33,41 @@
 
         <p>Bu dalgaların özellikleri ve davranışları, deprem riskinin anlaşılması ve deprem etkilerinin değerlendirilmesi açısından önemlidir. Farklı dalgalar farklı hızlarda ve farklı ortamlarda yayılırken, yer yüzeyinde hissedilen depremler genellikle yüzey dalgalarının etkileriyle oluşur.Deprem dalgalarının incelenmesi ve anlaşılması, deprem riski olan bölgelerde güvenlik önlemlerinin alınması ve deprem sonrası zararların azaltılması için büyük önem taşır.
         </p>
+
+        <section id="test3">
+            <h2>Tektonik Depremler</h2><hr>
+            <div class="image-container2">
+                <img src="fotograflar/tektonik.png" class="tektonik-image" width="150" height="200">
+            </div>
+            <p>İç kuvvetlerin neden olduğu gerilimlerin boşalması ile meydana gelen yer kabuğu hareketlerinin yol açtığı sarsıntılara Tektonik Depremler adı verilir. Gerek şiddet gerekse etki alanı bakımından en önemli ve en yıkıcı olan depremlerdir. Yeryüzünde olan depremlerin % 90'ı bu gruba girer. Türkiye'de olan depremler de büyük çoğunlukla tektonik depremlerdir.</p>
+        </section>
+
+        <section id="sigdeprem">
+            <h2>Sığ Depremler</h2><hr>
+            <div class="image-container3">
+                <img src="fotograflar/tektonik.png" class="tektonik-image" width="150" height="200">
+            </div>
+            <p>Sığ depremler, yer kabuğunun yakın yüzeylerinde, genellikle 0-70 kilometre derinliklerde meydana gelen depremlerdir. Bu tür depremler genellikle kıtaların altında meydana gelir.</p>
+        </section>
+
+        <section id="derin">
+            <h2>Derin Depremler</h2><hr>
+            <div class="image-container2">
+                <img src="fotograflar/tektonik.png" class="tektonik-image" width="150" height="200">
+            </div>
+            <p>Derin depremler, yer kabuğunun daha derin katmanlarında, genellikle 70-300 kilometre derinliklerde oluşan depremlerdir. Bu tür depremler genellikle okyanus tabanı altında ve deniz tabanı çukurlarında meydana gelir.</p>
+        </section>
+
+        <section id="sigdeprem">
+            <h2>Sığ Depremler</h2><hr>
+            <div class="image-container3">
+                <img src="fotograflar/tektonik.png" class="tektonik-image" width="150" height="200">
+            </div>
+            <p>Sığ depremler, yer kabuğunun yakın yüzeylerinde, genellikle 0-70 kilometre derinliklerde meydana gelen depremlerdir. Bu tür depremler genellikle kıtaların altında meydana gelir.</p>
+        </section>
             
         </section><br><br><br>
-        <center>
-            <div class="navigation">
-                <a href="anasayfa.html" class="secilisayfa">1</a>
-                <a href="sayfa2.html" class="sayfalink">2</a>
-                <a href="sayfa3.html" class="sayfalink">3</a>
-            </div>
-        </center>
+
 
     </main>
 

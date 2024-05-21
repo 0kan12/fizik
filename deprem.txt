@@ -1,0 +1,47 @@
+DEPREM NEDİR-----------------------------------
+Deprem dediğimiz doğa olayı, yer kabuğundaki kırılmalar nedeniyle ortaya çıkan titreşimlerin dalgalar halinde yayılmasıdır. Bu olay, sanılanın aksine, yerkabuğunun hareketsiz değil de hareketli olduğunun bir göstergesi olup, kaotik süreçler içeren ve fizik bilimi başta olmak üzere diğer bilim dalları tarafından da incelenen bir olgudur.
+
+
+DEPREM DALGASI NEDİR-------------------------------
+Deprem dalgaları, yer kabuğunda veya üzerinde meydana gelen bir deprem sırasında oluşan titreşimlerdir. Depremler genellikle yer kabuğunda meydana gelen kırılma veya kayma hareketleri sonucunda enerji açığa çıkarır. Bu enerji, deprem dalgaları olarak adlandırılan mekanik dalgalar şeklinde yayılır.
+
+Deprem dalgaları, farklı tiplerde olabilir ve depremin çeşidine, derinliğine ve kaynağına bağlı olarak değişir. En yaygın deprem dalgaları şunlardır:
+
+1) P Dalgaları: Sıkışma (compressional) veya uzatma (dilatational) hareketlerle yayılan en hızlı deprem dalgalarıdır. Katı, sıvı ve gaz gibi ortamlarda yayılabilirler. P dalgaları, bir ortam boyunca ileri geri hareket eden basınç dalgalarıdır.
+
+2) S Dalgaları: Yer kabuğunda katı ortamlarda yayılan ikinci tür deprem dalgalarıdır. S dalgaları, yanal (yatay) hareketlerle yayılır ve P dalgalarından daha yavaş hareket ederler. S dalgaları sadece katı ortamlarda yayılabilirler.
+
+3) Yüzey Dalgaları: Depremin yüzeydeki etkilerini taşıyan dalgalardır. Yüzey dalgaları, yer kabuğunun üst kısmında ilerler ve genellikle en büyük zararı yaratırlar. Love dalgaları (yatay hareketli) ve Rayleigh dalgaları (dairesel hareketli) olmak üzere iki ana türü vardır.
+
+
+Bu dalgaların özellikleri ve davranışları, deprem riskinin anlaşılması ve deprem etkilerinin değerlendirilmesi açısından önemlidir. Farklı dalgalar farklı hızlarda ve farklı ortamlarda yayılırken, yer yüzeyinde hissedilen depremler genellikle yüzey dalgalarının etkileriyle oluşur.
+
+Deprem dalgalarının incelenmesi ve anlaşılması, deprem riski olan bölgelerde güvenlik önlemlerinin alınması ve deprem sonrası zararların azaltılması için büyük önem taşır.
+
+
+
+X Tektonik Depremler: En yaygın ve bilinen deprem türüdür. Yer kabuğundaki tektonik levhaların hareketi sonucu oluşur.
+
+X Sığ Depremler: Yer kabuğunun yakın yüzeylerinde, genellikle 0-70 kilometre derinliklerde meydana gelir.
+
+X Derin Depremler: Yer kabuğunun daha derin katmanlarında, genellikle 70-300 kilometre derinliklerde oluşur.
+
+X Okyanus Depremleri: Deniz tabanında meydana gelen depremlerdir. Genellikle deniz tabanındaki fay hatlarının kırılması sonucu oluşurlar.
+
+X Açıklık Depremleri: Deniz tabanında veya açık okyanus bölgelerinde meydana gelen derin depremlerdir.
+
+Fay Depremleri: Yer kabuğundaki fay hatlarının kırılması sonucu oluşan depremlerdir.
+
+Volkanik Depremler: Volkanik faaliyetlerin neden olduğu depremlerdir. Magma hareketi veya volkanik patlamalar sonucu oluşabilirler.
+
+Bu deprem türleri, deprem mekanizmaları ve yer kabuğundaki levha hareketleriyle ilişkilidir. Her bir türün özellikleri ve etkileri farklıdır ve deprem riski taşıyan bölgelerde bu türlerin incelenmesi ve izlenmesi önemlidir.
+
+
+
+Görsel ve İllüstrasyon
+
+Gerçek Hayttan Örnekler
+
+Bölgesel Analiz
+
+Güvenlik İpuçları

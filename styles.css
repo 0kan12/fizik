@@ -25,8 +25,6 @@ h1 { /* sayfa baslıgı */
     font-size: 35px;}
 h2 { /* paragraf baslıgı */
     color: #ffffff;}
-
-
 p {
     line-height: 1.6;
     color: white;}
@@ -47,16 +45,17 @@ hr {
 
 
 
-
-
-
-/* deprem dalgası */
+/* deprem nedir */
 #deprem-dalgasi {
     background-color: #5b717e;
     padding: 20px;
     border-radius: 8px;
-    margin-bottom: 20px;
+    margin-bottom: -40px;
     box-shadow: 0px 0px 20px 1px;
+    text-align: center;
+}
+#deprem-dalgasi p {
+    margin-bottom: 20px;
 }
 
 /* deprem cesitleri */
@@ -67,25 +66,21 @@ hr {
     margin-bottom: 20px;
     box-shadow: 0px 0px 10px 0px;
 }
-
-#test3 {
-    text-align: right; /* Align this section's content to the right */
-    background-color: aqua;
-    padding: 20px;
-    border-radius: 8px;
-    margin-bottom: 20px;
+#deprem-cesitleri li {
+    text-align: left;
+}
+#deprem-cesitleri strong {
+    color: black;
+    font-size: 25px;
 }
 
 
 
-
-
-
-
-/* fotograf */
+/* dalga */
 .image-container {
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 20px;
 }
 .dalga-image {
     max-width: 100%;
@@ -93,3 +88,227 @@ hr {
     border-radius: 8px;
     box-shadow: 0px 0px 10px 0px;
 }
+
+/* tektonik */
+#test3 {
+    background-color: rgb(97, 56, 133);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden; /* Clear floated content */
+}
+.image-container2 {
+    float: left; /* Float the image container to the left */
+    margin-top: 20px;
+    margin-right: 20px; /* Add spacing between the image and paragraph */
+}
+.tektonik-image {
+    width: auto; /* Set initial width to auto */
+    max-height: 100%; /* Limit the maximum height of the image */
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px;
+}
+#test3 p {
+    margin-top: 40px;
+    text-align: left; /* Align paragraph text to the right */
+    font-size: 27px;
+}
+#test3 h2 {
+    text-align: center;
+}
+
+
+/* sığ */
+#sigdeprem {
+    background-color: gray;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden;
+}
+.image-container3 {
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sig-image {
+    width: auto;
+    max-height: 100%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px;
+}
+#sigdeprem p {
+    text-align: center;
+    margin-top: 30px;
+    text-align: left; /* Align paragraph text to the right */
+    font-size: 27px;
+}
+#sigdeprem h2 {
+    text-align: center;
+}
+
+
+
+/* derin */
+#derin {
+    background-color: rgb(145, 62, 105);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden; /* Clear floated content */
+}
+#derin p {
+    margin-top: 60px;
+    font-size: 25px;
+    text-align: left; /* Align paragraph text to the right */
+}
+#derin h2 {
+    text-align: center;
+}
+
+/* volkanik */
+#volkanik {
+    background-color: rgb(145, 62, 82);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden; /* Clear floated content */
+}
+#volkanik p {
+    margin-top: 60px;
+    font-size: 25px;
+    text-align: left; /* Align paragraph text to the right */
+}
+#volkanik h2 {
+    text-align: center;
+}
+
+/* okyanus */
+#okyanus {
+    background-color: rgb(69, 75, 135);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden;
+}
+.image-container3 {
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.okyanus-image {
+    width: auto;
+    max-height: 100%;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px;
+}
+#okyanus p {
+    text-align: center;
+    margin-top: 40px;
+    text-align: left; /* Align paragraph text to the right */
+    font-size: 20px;
+}
+#okyanus h2 {
+    text-align: center;
+}
+
+/* aciiklik */
+#aciklik {
+    background-color: rgb(129, 136, 97);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden; /* Clear floated content */
+}
+#aciklik p {
+    margin-top: 60px;
+    font-size: 25px;
+    text-align: left; /* Align paragraph text to the right */
+}
+#aciklik h2 {
+    text-align: center;
+}
+
+/* fay */
+#fay {
+    background-color: rgb(97, 136, 126);
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px 0px;
+    overflow: hidden; /* Clear floated content */
+}
+#fay p {
+    margin-top: 60px;
+    font-size: 25px;
+    text-align: left; /* Align paragraph text to the right */
+}
+#fay h2 {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.sayfalink {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #333;
+    transition: background-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for background color and text color */
+}
+
+.sayfalink:hover {
+    background-color: #eaeaea; /* Background color on hover */
+    color: #000000; /* Text color on hover */
+    box-shadow: 0px 0px 0px 1px;
+}
+
+.secilisayfa {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 0 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
